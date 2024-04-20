@@ -15,7 +15,7 @@
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://youtube.com/@s4salmanyt)
+[![Batman](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://youtube.com/@s4salmanyt)
 
 <p align="center">
 <a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
@@ -29,12 +29,12 @@ Batman is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://
 <p align="center">
 <a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/Batman MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/Batman MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/Batman-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-V3-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-V3-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V3-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V3-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/salmanytofficial/Batman-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/BATMAN V3-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/salmanytofficial/BATMAN MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/BATMAN MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/salmanytofficial/BATMAN-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
+<a href="https://github.com/salmanytofficial/BATMAN MD/"><img title="Size" src="https://img.shields.io/github/repo-size/salmanytofficial/BATMAN MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FBATMAN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/salmanytofficial/BATMAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -42,13 +42,13 @@ Batman is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://
   
 ####
 
-*XLICON-V3* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
+*BATMAN* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
 -------
 
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V3-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find BATMAN-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
