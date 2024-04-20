@@ -20,8 +20,8 @@
 <p align="center">
 <a href="https://github.com/BATMAN OFFICIAL><img title="Author" src="https://img.shields.io/badge/CREATOR-KEMBOIOBED SER-black.svg?style=for-the-badge&logo=github"></a>
 
-### ℹ️ **About XLICON-V3**
-XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **About BATMAN**
+batman is a Cool Multi-Device WhatsApp bot developed by [KEMBOIOBED](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{BATMAN MD}/count.svg" alt="KEMBOIOBED :: Visitor's Count" /></p>
 
