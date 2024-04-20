@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@kemboiobedtechinfo">
-    <img alt="Batman docs" height="300" src="https://telegra.ph/file/ec9bc5038601821f2eb84.jpg">
+    <img alt="Batman docs" height="300" src="https://https://images.app.goo.gl/MsQhut51DqAwzkuR8">
   </a>
 </p>
     
