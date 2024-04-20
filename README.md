@@ -203,9 +203,9 @@ NOW Deploy👇
 
 
 ## 📛 `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/kemboiobed official"><img src="https://github.com/kemboiobed tofficial.png" width="250" height="250" alt="kemboiobed"/></a>
   
-**XLICON-V3** - By `salmanytofficial`
+**Batman** - By `kemboiobedtofficial`
 <br>
 `Development , Maintainence , Bot Updates`
 
@@ -219,7 +219,7 @@ NOW Deploy👇
 -------
 
 ## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
+- **Mail Us:** [obadiahkemboi05@gmail.com](obadiahkemboi05@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
@@ -229,7 +229,7 @@ NOW Deploy👇
 - [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
 - [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
 
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! kemboiobed Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
