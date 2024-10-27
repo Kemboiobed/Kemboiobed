@@ -1,51 +1,44 @@
-GitFluence
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+import time
 
+# Set up Chrome options
+chrome_options = Options()
+chrome_options.add_argument("--user-data-dir=./User_Data")  # Keep user data to avoid scanning QR code every time
 
-Get Started
+# Path to your ChromeDriver
+chrome_driver_path = 'path/to/chromedriver'
 
-Fast & Easy Git Command Generat
+# Initialize the WebDriver
+service = Service(chrome_driver_path)
+driver = webdriver.Chrome(service=service, options=chrome_options)
 
-> Whatsapp bot
-> git checkout -b feature/whatsapp-bot 
-> Auto view once download
-> git config core.autocrlf input 
-> Auto view status
-> git status -u 
-> Gpt
-> git clone <repository_url> 
-> Auto download status
-> git status 
-> Songs, lyrics, videos and images download
-> git clone <repository_URL> 
-> Always online, virtual recording audio and typing
-> git commit -am "Always online, virtual recording audio and typing" 
-> Deploy to heroku
-> git push heroku master 
-> Pairing code
-> git checkout -b pairing-code 
-> Oceans MD Whatsapp bot
-> git clone https://github.com/oceans-md/whatsapp-bot.git 
-> Fork The repo
-> git clone <URL_of_original_repository> 
-> Phone number 254740873466
-> git add . git commit -m "Phone number 254740873466" git push 
-> Bot private/public
-> git clone git@github.com: kemboiobed/repository.git git remote set-url origin git@github.com: kemboiobed/repository.git git push origin master git push --set-upstream origin master git checkout -b new-branch git branch -m new-branch new-name git branch -d branch-to-delete git push origin :branch-to-delete git remote add upstream git@github.com:original-owner/repository.git git fetch upstream git merge upstream/master git re
-> Edit features
-> git checkout -b edit_features 
-> Fancy
-> git commit -m "Fancy" 
-> Colorify images
-> git add . git commit -m "Colorify images" git push 
->
-ads via Carbon
-Design and Development tips in your inbox. Every weekday.
-ADS VIA CARBON
-Describe the command
-Start by entering a description of what you want to accomplish with git into the web app's input field.
-Receive suggestions
-Based on your description, the GitFluence will use its AI-driven solution to suggest the more relevant git commands.
-Copy the command
-Now you can copy it and paste it into your terminal or command line interface.
-© 2024 GitFluence
+# Open WhatsApp Web
+driver.get('https://web.whatsapp.com')
 
+# Wait for the user to scan the QR code
+input("Press Enter after scanning the QR code")
+
+# List of contacts to monitor
+contacts = ["Contact Name 1", "Contact Name 2"]
+
+def check_status(contact):
+    try:
+        # Search for the contact
+        search_box = driver.find_element(By.XPATH, '//div[@contenteditable="true"][@data-tab="3"]')
+        search_box.clear()
+        search_box.send_keys(contact)
+        search_box.send_keys(Keys.ENTER)
+        time.sleep(2)
+
+        # Check the status
+        status = driver.find_element(By.XPATH, '//span[@title="online"]')
+        if status:
+            print(f"{contact} is online")
+        else:
+            print(f"{contact} is offline")
+    except Exception as e:
+    
